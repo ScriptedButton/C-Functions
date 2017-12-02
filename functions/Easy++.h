@@ -1,7 +1,6 @@
 // Easy++ Development Release
 
 #pragma once
-#pragma warning(disable: 3867)
 #include <string>
 #include <iostream>
 #include <math.h>
