@@ -1,4 +1,4 @@
-// WebReq Function - Call using WebRequest(url here); - Lenin
+// WebReq Function - Call using WebRequest(url here);
 
 #pragma once
 #pragma comment(lib, "wininet.lib")
